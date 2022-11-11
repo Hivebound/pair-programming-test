@@ -1,3 +1,14 @@
+# Hivebound Pair-programming Test
+
+This is the Hivebound pair-programming test. The goal of this is to primarily see
+what it would be like for us to work together, as we are a highly collaborative team.
+
+To run the code, please use the following command:
+
+```bash
+> npm test
+```
+
 # Warehouse Robot
 
 We have installed a robot in our warehouse and now we need to be able to send it commands to control it. We need you to implement the control mechanism.

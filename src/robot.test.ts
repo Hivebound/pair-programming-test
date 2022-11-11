@@ -1,8 +1,8 @@
-import { moveRobot } from "./robot";
+import { foo } from "./robot";
 
 describe("Warehouse Robot", () => {
   it("should run demo test", () => {
-    const result = moveRobot();
+    const result = foo();
 
     expect(result).toEqual(true);
   });

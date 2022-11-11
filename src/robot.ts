@@ -1,3 +1,3 @@
-export function moveRobot() {
+export function foo() {
   return true;
 }

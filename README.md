@@ -3,6 +3,9 @@
 This is the Hivebound pair-programming test. The goal of this is to see what it
 would be like for us to work together, as we are a highly collaborative team.
 
+**The task can be done in either `JavaScript` or `TypeScript`. If using `TypeScript`,
+rename the file extensions to `.ts`**
+
 Tips:
 - Treat this as a bidirectional session
 - Write the code as if you are writing for production (write tests!)

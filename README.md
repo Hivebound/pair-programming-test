@@ -5,7 +5,7 @@ would be like for us to work together, as we are a highly collaborative team.
 
 Tips:
 - Treat this as a bidirectional session
-- Write the code as if you are writing production-quality code
+- Write the code as if you are writing for production
 - Ask any questions that you might have
 - Talk through your thought processes
 

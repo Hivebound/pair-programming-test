@@ -3,6 +3,12 @@
 This is the Hivebound pair-programming test. The goal of this is to see what it
 would be like for us to work together, as we are a highly collaborative team.
 
+Tips:
+- Treat this is a bidirectional session
+- Write the code as if you are writing production-quality code
+- Ask any questions that you might have
+- Talk through your thought processes
+
 To run the code, please use the following command:
 
 ```bash

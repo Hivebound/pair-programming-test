@@ -1,7 +1,7 @@
 # Hivebound Pair-programming Test
 
-This is the Hivebound pair-programming test. The goal of this is to primarily see
-what it would be like for us to work together, as we are a highly collaborative team.
+This is the Hivebound pair-programming test. The goal of this is to see what it
+would be like for us to work together, as we are a highly collaborative team.
 
 To run the code, please use the following command:
 
